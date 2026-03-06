@@ -5,3 +5,4 @@ b = int(input("Enter second number: "))
 
 print("Sum:", a + b)
 print("Multiplication:",a * b)
+print("Subtraction:", a - b)
